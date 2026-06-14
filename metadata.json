@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion Chat",
+  "description": "A warm, responsive, and playful personal AI companion that chats with you in Hindi/Hinglish, featuring customizable companion characteristics and communication tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
